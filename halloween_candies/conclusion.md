@@ -8,13 +8,13 @@ The dataset comes from kaggle, the link is shown below: https://www.kaggle.com/d
 `Knowledge contained:` Logistic Regression, Random Forest, Encoding numerical data
 
 ## Potential angles with this dataset:
-Which candy is the most popular
-Which candy is the least popular
-Is candy containing chocolate more popular than candy without
-Which candy contains the most sugar, and does that impact its popularity
-Which qualities are associated with higher rankings?
-What’s the most popular candy? Least popular?
-Can you recreate the 538 analysis of this dataset?
+Which candy is the most popular  
+Which candy is the least popular  
+Is candy containing chocolate more popular than candy without  
+Which candy contains the most sugar, and does that impact its popularity  
+Which qualities are associated with higher rankings?  
+What’s the most popular candy? Least popular?  
+Can you recreate the 538 analysis of this dataset?   
 
 ## Outline
 1. Using python and machine learning method to do the prediction:  
